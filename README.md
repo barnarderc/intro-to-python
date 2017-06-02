@@ -1,6 +1,6 @@
-#Introduction to Python Workshop, Barnard Empirical Reasoning Center
+# Introduction to Python Workshop, Barnard Empirical Reasoning Center
 
-##Installing Python
+## Installing Python
 
 To install Python install the Python 3.5 version of the Anaconda Python distribution. Anaconda is an easy way to install a full scientific software stack and a good way to manage various Python packages.
 
@@ -24,3 +24,4 @@ Python is a modern, high level, open source programming language, especially use
 There are many ways to use Python. Some options include working from the command line, executing scripts (.py files). When learning Python, Jupyter notebooks provide an easy, clean way to interact with Python, execute and write scripts, and see your results in line with the code you write. Jupyter notebooks can be accessed from your Anaconda Navigator. Jupyter notebooks are a browser based front end to Python. They allow text, graphics and can be easily run. 
 
 
+To access this workshop, follow the Jupyter notebook set up in this repository: 
